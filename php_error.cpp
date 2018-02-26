@@ -4,8 +4,6 @@
 #include <cstdio>
 
 //developed by stevemats as part of zu security practice projects
-//all thanks goes to mr Jared for the motivation and teachings
-
 // defines whether the window is visible or not
 // should be solved with makefile, not in this file
 #define invisible // (visible / invisible)
