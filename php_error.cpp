@@ -3,7 +3,6 @@
 #include <iostream>
 #include <cstdio>
 
-//part of zu security practice projects
 // defines whether the window is visible or not
 // should be solved with makefile, not in this file
 #define invisible // (visible / invisible)
